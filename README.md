@@ -5,5 +5,7 @@ This software is a MATLAB application that computes the van der Waals interactio
 Please send any questions or comments to: Brian Lee
 brian.h.lee@duke.edu
 
+![GUI](https://user-images.githubusercontent.com/68029971/88709145-bd93fc80-d0e2-11ea-8922-8cec49dfb1c4.png)
+
 (./GUI.png)
 ![alt text](https://github.com/BrianHLeeProjects/NanocubeAnalyticalModel/tree/master/manual/GUI.png?raw=true)
