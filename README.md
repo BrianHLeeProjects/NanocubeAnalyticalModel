@@ -4,4 +4,5 @@ This software is a MATLAB application that computes the van der Waals interactio
 
 Please send any questions or comments to: Brian Lee
 brian.h.lee@duke.edu
+
 ![](images/GUI.png)
